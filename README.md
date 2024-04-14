@@ -1,1 +1,6 @@
-# DS3500_nlp
+# CODE BLUE: NLP Library for Medical Drama TV Shows
+T. Datta, K. Lin - DS3500
+
+# Abstract
+This project, "CODE BLUE," employs Natural Language Processing (NLP) techniques to analyze scripts from renowned medical drama TV series including "Grey's Anatomy," "The Good Doctor," "Scrubs," "House," "The Mindy Project," and "The Resident." Our analysis focuses on the dialogue, themes, and emotional nuances within these shows to understand character development and narrative structures, as well as the portrayal of medical scenarios. By parsing scripts to isolate character dialogues and employing sentiment analysis and cosine similarity measures, we uncover both the unique and shared narrative elements across these series. Our findings reveal insights into the recurring themes and emotional dynamics that define the genre, highlighting both commonalities and distinct features in how medical dramas portray healthcare professionals and settings. This project not only deepens the understanding of narrative techniques in popular media but also serves as a resource for content creators and researchers interested in the cultural impact of medical dramas. Future work may explore the accuracy of medical representations and further refine dialogue analysis to enhance the understanding of genre-specific storytelling nuances.
+
